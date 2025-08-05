@@ -69,7 +69,7 @@ EVOLUTION_API_KEY=sua_chave_api_aqui
 INSTANCE_NAME=nome_da_instancia
 
 # Server Configuration
-PORT=3000
+PORT=3001
 ```
 
 5. **Execute o bot:**
@@ -89,7 +89,7 @@ Configure o webhook na sua instância da Evolution API para receber mensagens:
 
 ```bash
 # URL do webhook
-http://seu-servidor.com:3000/webhook
+http://seu-servidor.com:3001/webhook
 ```
 
 ### 2. Endpoints da Evolution API
